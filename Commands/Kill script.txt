@@ -1,0 +1,1 @@
+game.Players.[Name].Character.Humanoid.Health = 0

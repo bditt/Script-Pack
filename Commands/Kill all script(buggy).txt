@@ -1,0 +1,3 @@
+for i,v in pairs(game.Players:children()) do
+    v.Character:BreakJoints()
+end

@@ -1,0 +1,6 @@
+f = Instance.new("Smoke") 
+f.Parent = game.Workspace.{Name}.Head 
+f.Size = 8
+f.RiseVelocity = 50
+f.Color = Color3.new(1,9,6) 
+f.SecondaryColor = Color3.new(0,9,4)

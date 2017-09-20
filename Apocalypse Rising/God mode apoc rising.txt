@@ -1,0 +1,1 @@
+workspace.Remote.AddDamageSelf:FireServer(game.Players.LocalPlayer.Character.Humanoid, math.huge)
