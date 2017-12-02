@@ -1,5 +1,5 @@
 f = Instance.new("Fire") 
-f.Parent = game.Workspace.Name.Head 
+f.Parent = game.Players.LocalPlayer.Character.Head
 f.Size = 4 
 f.Heat = 25 
 f.Color = Color3.new(1,0,0) 
